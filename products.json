@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "เสื้อกันหนาวสตรีทแวร์ SCAPE CORE",
+    "price": 690,
+    "stock": 15,
+    "image": "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=500&q=80"
+  },
+  {
+    "id": 2,
+    "name": "ฮู้ดดี้วินเทจ TLE Wild Shop",
+    "price": 850,
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=500&q=80"
+  }
+]
